@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="io-7.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ImagePDf/lib/io-7.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImagePDf/lib/itextpdf-5.5.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImagePDf/lib/kernel-7.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImagePDf/lib/layout-7.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ImagePDf/lib/slf4j-api-1.7.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
